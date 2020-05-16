@@ -5,6 +5,11 @@ This is a Java program I wrote for my Computer Graphics course using geometric p
 
 *For more information you can take a look at the [Java Documentation](https://docs.oracle.com/javase/tutorial/2d/geometry/primitives.html) for this topic.*
 
+## Output
+![alt text](https://raw.githubusercontent.com/pdeguayaba/primitivos-trex/master/src/T-Rex.png)
+
+
+
 
 ## License & Copyright
 [![License](https://img.shields.io/github/license/pdeguayaba/primitivos-trex)](https://github.com/pdeguayaba/primitivos-trex/blob/master/LICENSE)
